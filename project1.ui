@@ -68,7 +68,6 @@
      <string>Помощь</string>
     </property>
     <addaction name="actionGitHub"/>
-    <addaction name="action_about"/>
    </widget>
    <addaction name="menu"/>
    <addaction name="menu_3"/>
@@ -148,7 +147,7 @@
     <string>Изображение</string>
    </property>
   </action>
-  <action name="action_about">
+  <action name="action_About">
    <property name="text">
     <string>О программе</string>
    </property>
